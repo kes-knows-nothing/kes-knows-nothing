@@ -1,6 +1,6 @@
-### I have no idea 😱😱😱
+### I have no idea 😱😱😱, but I love JavaScript! 😆😆😆
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://beyondcode.tistory.com/)
+<img src="https://img.shields.io/badge/Beyond_Code-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
 ![kes-knows-nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kes-knows-nothing&show_icons=true&theme=merko) 
 
