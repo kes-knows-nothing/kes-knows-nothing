@@ -9,10 +9,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-323330?style=flat-square&logo=Firebase&logoColor=FFCA28)
 ![Vercel](https://img.shields.io/badge/Vercel-323330?style=flat-square&logo=Vercel&logoColor=000000)
 
-<a href="https://beyondcode.tistory.com/">
+<a href="https://beyondcode.tistory.com/" target='_blank'>
   <img src="https://img.shields.io/badge/Beyond_Code-000000?style=for-the-badge&logo=Tistory&logoColor=white">  
 </a>
-<a href="(https://www.youtube.com/channel/UCJfxWJIBZL13oCFrih363XQ)">
+<a href="https://www.youtube.com/channel/UCJfxWJIBZL13oCFrih363XQ" target='_blank'>
   <img src="https://img.shields.io/badge/Dev_Kes-000000?style=for-the-badge&logo=Youtube&logoColor=FF0000">  
 </a>
 
