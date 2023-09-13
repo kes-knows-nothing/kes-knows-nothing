@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Dev_Kes-000000?style=for-the-badge&logo=Youtube&logoColor=FF0000">  
 </a>
 
+[![Dev Kes](https://img.shields.io/badge/Dev_Kes-000000?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCJfxWJIBZL13oCFrih363XQ){:target="_blank"}
+
 ![kes-knows-nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kes-knows-nothing&show_icons=true&theme=merko) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=epik1219)](https://solved.ac/epik1219)
