@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![kes-knows-nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kes-knows-nothing&show_icons=true&theme=merko) 
+
 <!--
 **kes-knows-nothing/kes-knows-nothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
