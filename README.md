@@ -1,10 +1,11 @@
 # Hi, I'm dev Kes. This is my dev journey
 
 ### I have no idea 😱😱😱, but I know I love JavaScript! 😆😆😆
-![React](https://img.shields.io/badge/React-323330?style=flat-square&logo=React&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_-323330?style=flat-square&logo=React&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=TypeScript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-323330?style=flat-square&logo=HTML5&logoColor=E34F26)
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat-square&logo=Node.js&logoColor=339933)
+![HTML](https://img.shields.io/badge/HTML5_-323330?style=flat-square&logo=HTML5&logoColor=E34F26)
 ![SASS](https://img.shields.io/badge/Sass-323330?style=flat-square&logo=Sass&logoColor=CC6699)
 ![Firebase](https://img.shields.io/badge/Firebase-323330?style=flat-square&logo=Firebase&logoColor=FFCA28)
 ![Vercel](https://img.shields.io/badge/Vercel-323330?style=flat-square&logo=Vercel&logoColor=000000)
