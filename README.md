@@ -1,4 +1,6 @@
-### Hi there 👋
+### I have no idea 😱😱😱
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://beyondcode.tistory.com/)
 
 ![kes-knows-nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kes-knows-nothing&show_icons=true&theme=merko) 
 
