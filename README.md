@@ -1,3 +1,4 @@
+# Hi, I'm dev Kes. This is my dev journey
 ### I have no idea 😱😱😱, but I love JavaScript! 😆😆😆
 
 <img src="https://img.shields.io/badge/Beyond_Code-000000?style=for-the-badge&logo=Tistory&logoColor=white">
